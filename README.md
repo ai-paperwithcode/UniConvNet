@@ -61,7 +61,7 @@ We propose **UniConvNet**, a pure ConvNet model constructed entirely from standa
 Please check [INSTALL.md](INSTALL.md) for installation instructions. 
 
 ## Evaluation
-We give an example evaluation command for a ImageNet-1K pre-trained UniConvNet-L:
+We give an example evaluation command for a ImageNet-1K pre-trained UniConvNet-A:
 
 Single-GPU
 ```
