@@ -101,10 +101,12 @@ This project is released under the MIT license. Please see the [LICENSE](LICENSE
 ## Citation
 If you find this repository helpful, please consider citing:
 ```
-@Article{wang2025uniconvnet,
-  author  = {Yuhao Wang and Wei Xi},
-  title   = {UniConvNet: Expanding Effective Receptive Field while Maintaining Asymptotically Gaussian Distribution for ConvNets of Any Scale},
-  journal = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year    = {2025},
+@InProceedings{Wang_2025_ICCV,
+    author    = {Wang, Yuhao and Xi, Wei},
+    title     = {UniConvNet: Expanding Effective Receptive Field while Maintaining Asymptotically Gaussian Distribution for ConvNets of Any Scale},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {20922-20933}
 }
 ```
